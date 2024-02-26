@@ -1,1 +1,2 @@
-Hi , i am learnin Git Version control.
+Loremipsum34
+Learning Git branching  and merging.
